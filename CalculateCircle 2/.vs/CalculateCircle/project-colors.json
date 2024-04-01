@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3581e5d-dba5-4db2-b8a8-fd17b49385e9": {
+      "ProjectGuid": "b3581e5d-dba5-4db2-b8a8-fd17b49385e9",
+      "DisplayName": "CalculateCircle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

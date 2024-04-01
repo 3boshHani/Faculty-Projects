@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\Calculate Weight on Moon.exe
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\Calculate Weight on Moon.deps.json
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\Calculate Weight on Moon.runtimeconfig.json
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\Calculate Weight on Moon.dll
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\ref\Calculate Weight on Moon.dll
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\bin\Debug\net6.0\Calculate Weight on Moon.pdb
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.dll
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\ref\Calculate Weight on Moon.dll
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.pdb
+C:\Users\Omar\Desktop\Calculate Weight on Moon\Calculate Weight on Moon\obj\Debug\net6.0\Calculate Weight on Moon.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\The Calc with swtich.exe
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\The Calc with swtich.deps.json
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\The Calc with swtich.runtimeconfig.json
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\The Calc with swtich.dll
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\ref\The Calc with swtich.dll
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\bin\Debug\net6.0\The Calc with swtich.pdb
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.AssemblyInfo.cs
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.dll
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\ref\The Calc with swtich.dll
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.pdb
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.genruntimeconfig.cache
+C:\Users\Omar\Desktop\The Calc with swtich\The Calc with swtich\obj\Debug\net6.0\The Calc with swtich.csproj.AssemblyReference.cache

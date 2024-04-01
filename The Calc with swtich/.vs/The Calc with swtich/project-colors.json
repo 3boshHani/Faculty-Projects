@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "614f8b99-ede6-4b9f-9118-127047f681f8": {
+      "ProjectGuid": "614f8b99-ede6-4b9f-9118-127047f681f8",
+      "DisplayName": "The Calc with swtich",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

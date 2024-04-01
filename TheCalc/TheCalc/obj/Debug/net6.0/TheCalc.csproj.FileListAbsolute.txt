@@ -1,0 +1,14 @@
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\TheCalc.exe
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\TheCalc.deps.json
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\TheCalc.runtimeconfig.json
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\TheCalc.dll
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\ref\TheCalc.dll
+C:\Users\Omar\Desktop\TheCalc\TheCalc\bin\Debug\net6.0\TheCalc.pdb
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.AssemblyInfo.cs
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.dll
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\ref\TheCalc.dll
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.pdb
+C:\Users\Omar\Desktop\TheCalc\TheCalc\obj\Debug\net6.0\TheCalc.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculate Weight on Moon/1.0.0": {
+        "runtime": {
+          "Calculate Weight on Moon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate Weight on Moon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

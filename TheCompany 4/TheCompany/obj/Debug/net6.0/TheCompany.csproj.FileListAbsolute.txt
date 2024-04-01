@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\TheCompany.exe
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\TheCompany.deps.json
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\TheCompany.runtimeconfig.json
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\TheCompany.dll
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\ref\TheCompany.dll
+C:\Users\Omar\Desktop\TheCompany\TheCompany\bin\Debug\net6.0\TheCompany.pdb
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.AssemblyInfo.cs
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.dll
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\ref\TheCompany.dll
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.pdb
+C:\Users\Omar\Desktop\TheCompany\TheCompany\obj\Debug\net6.0\TheCompany.genruntimeconfig.cache

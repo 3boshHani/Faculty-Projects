@@ -1,0 +1,28 @@
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.exe
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.deps.json
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.runtimeconfig.json
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.dll
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\ref\TheStudentDegree.dll
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.pdb
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.AssemblyInfo.cs
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.dll
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\ref\TheStudentDegree.dll
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.pdb
+C:\Users\Omar\Desktop\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.genruntimeconfig.cache
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.AssemblyInfoInputs.cache
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.AssemblyInfo.cs
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.csproj.CoreCompileInputs.cache
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.dll
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\refint\TheStudentDegree.dll
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.pdb
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.exe
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.deps.json
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.runtimeconfig.json
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.dll
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\bin\Debug\net6.0\TheStudentDegree.pdb
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\TheStudentDegree.genruntimeconfig.cache
+G:\Abdo Data\Faculty\Second Semester 2024\Intro to Programming C#\Sheet\TheStudentDegree\TheStudentDegree\obj\Debug\net6.0\ref\TheStudentDegree.dll

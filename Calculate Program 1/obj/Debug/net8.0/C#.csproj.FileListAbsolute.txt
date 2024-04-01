@@ -1,0 +1,14 @@
+G:\Abdo Data\Programing\Projects\C#\bin\Debug\net8.0\C#.exe
+G:\Abdo Data\Programing\Projects\C#\bin\Debug\net8.0\C#.deps.json
+G:\Abdo Data\Programing\Projects\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+G:\Abdo Data\Programing\Projects\C#\bin\Debug\net8.0\C#.dll
+G:\Abdo Data\Programing\Projects\C#\bin\Debug\net8.0\C#.pdb
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.dll
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\refint\C#.dll
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.pdb
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+G:\Abdo Data\Programing\Projects\C#\obj\Debug\net8.0\ref\C#.dll
