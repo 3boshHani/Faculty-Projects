@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar\\Desktop\\Thedescendingorder\\Thedescendingorder\\Thedescendingorder.csproj",
+      "projectUniqueName": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Thedescendingorder\\Thedescendingorder\\Thedescendingorder.csproj",
       "projectName": "Thedescendingorder",
-      "projectPath": "C:\\Users\\Omar\\Desktop\\Thedescendingorder\\Thedescendingorder\\Thedescendingorder.csproj",
+      "projectPath": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Thedescendingorder\\Thedescendingorder\\Thedescendingorder.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar\\Desktop\\Thedescendingorder\\Thedescendingorder\\obj\\",
+      "outputPath": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Thedescendingorder\\Thedescendingorder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

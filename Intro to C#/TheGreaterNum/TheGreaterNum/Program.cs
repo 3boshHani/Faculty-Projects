@@ -1,8 +1,8 @@
-﻿using System;
+﻿
 
-public class Sheet
+ class Sheet
 {
-    public static void Main(string[] args)
+     static void Main()
     {
         Console.WriteLine("Write The 2 Numbers");
         int first = int.Parse(Console.ReadLine());

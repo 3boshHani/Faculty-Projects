@@ -1,1 +1,1 @@
-## My projects though faculty they made by C#
+## My projects though faculty they are made by C#

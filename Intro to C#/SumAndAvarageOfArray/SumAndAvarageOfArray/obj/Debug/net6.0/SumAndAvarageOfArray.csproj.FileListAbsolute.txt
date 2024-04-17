@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\SumAndAvarageOfArray.exe
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\SumAndAvarageOfArray.deps.json
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\SumAndAvarageOfArray.runtimeconfig.json
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\SumAndAvarageOfArray.dll
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\ref\SumAndAvarageOfArray.dll
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\bin\Debug\net6.0\SumAndAvarageOfArray.pdb
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.AssemblyInfo.cs
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.dll
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\ref\SumAndAvarageOfArray.dll
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.pdb
+C:\Users\Omar\Desktop\SumAndAvarageOfArray\SumAndAvarageOfArray\obj\Debug\net6.0\SumAndAvarageOfArray.genruntimeconfig.cache
