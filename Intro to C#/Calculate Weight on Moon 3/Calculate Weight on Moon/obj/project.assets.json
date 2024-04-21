@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omar\\Desktop\\Calculate Weight on Moon\\Calculate Weight on Moon\\Calculate Weight on Moon.csproj",
+      "projectUniqueName": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Calculate Weight on Moon 3\\Calculate Weight on Moon\\Calculate Weight on Moon.csproj",
       "projectName": "Calculate Weight on Moon",
-      "projectPath": "C:\\Users\\Omar\\Desktop\\Calculate Weight on Moon\\Calculate Weight on Moon\\Calculate Weight on Moon.csproj",
+      "projectPath": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Calculate Weight on Moon 3\\Calculate Weight on Moon\\Calculate Weight on Moon.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omar\\Desktop\\Calculate Weight on Moon\\Calculate Weight on Moon\\obj\\",
+      "outputPath": "G:\\Abdo Data\\Programing\\Projects\\Faculty Projects (C#)\\Intro to C#\\Calculate Weight on Moon 3\\Calculate Weight on Moon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
