@@ -1,0 +1,14 @@
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\bin\Debug\net8.0\ReadSumMatrix.exe
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\bin\Debug\net8.0\ReadSumMatrix.deps.json
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\bin\Debug\net8.0\ReadSumMatrix.runtimeconfig.json
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\bin\Debug\net8.0\ReadSumMatrix.dll
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\bin\Debug\net8.0\ReadSumMatrix.pdb
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.dll
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\refint\ReadSumMatrix.dll
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.pdb
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ReadSumMatrix.genruntimeconfig.cache
+C:\Users\Omar\Desktop\Read and Sum of Matrix\ReadSumMatrix\obj\Debug\net8.0\ref\ReadSumMatrix.dll

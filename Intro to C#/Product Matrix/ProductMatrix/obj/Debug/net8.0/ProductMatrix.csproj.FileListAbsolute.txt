@@ -1,0 +1,14 @@
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.exe
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.deps.json
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.runtimeconfig.json
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.pdb
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\refint\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.pdb
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.genruntimeconfig.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ref\ProductMatrix.dll
