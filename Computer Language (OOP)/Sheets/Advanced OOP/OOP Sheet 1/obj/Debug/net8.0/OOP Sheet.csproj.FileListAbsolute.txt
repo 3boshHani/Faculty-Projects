@@ -1,0 +1,14 @@
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\OOP Sheet\bin\Debug\net8.0\OOP Sheet.exe
+C:\Users\Abdo\Desktop\OOP Sheet\bin\Debug\net8.0\OOP Sheet.deps.json
+C:\Users\Abdo\Desktop\OOP Sheet\bin\Debug\net8.0\OOP Sheet.runtimeconfig.json
+C:\Users\Abdo\Desktop\OOP Sheet\bin\Debug\net8.0\OOP Sheet.dll
+C:\Users\Abdo\Desktop\OOP Sheet\bin\Debug\net8.0\OOP Sheet.pdb
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.dll
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\refint\OOP Sheet.dll
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.pdb
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\OOP Sheet.genruntimeconfig.cache
+C:\Users\Abdo\Desktop\OOP Sheet\obj\Debug\net8.0\ref\OOP Sheet.dll

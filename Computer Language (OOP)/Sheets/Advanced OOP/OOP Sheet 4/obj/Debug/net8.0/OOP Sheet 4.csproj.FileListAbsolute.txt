@@ -1,0 +1,14 @@
+C:\Users\Abdo\Desktop\OOP Sheet 4\bin\Debug\net8.0\OOP Sheet 4.exe
+C:\Users\Abdo\Desktop\OOP Sheet 4\bin\Debug\net8.0\OOP Sheet 4.deps.json
+C:\Users\Abdo\Desktop\OOP Sheet 4\bin\Debug\net8.0\OOP Sheet 4.runtimeconfig.json
+C:\Users\Abdo\Desktop\OOP Sheet 4\bin\Debug\net8.0\OOP Sheet 4.dll
+C:\Users\Abdo\Desktop\OOP Sheet 4\bin\Debug\net8.0\OOP Sheet 4.pdb
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.dll
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\refint\OOP Sheet 4.dll
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.pdb
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\OOP Sheet 4.genruntimeconfig.cache
+C:\Users\Abdo\Desktop\OOP Sheet 4\obj\Debug\net8.0\ref\OOP Sheet 4.dll

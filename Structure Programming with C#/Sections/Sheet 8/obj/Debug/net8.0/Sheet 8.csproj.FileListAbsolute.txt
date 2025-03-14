@@ -1,0 +1,14 @@
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.AssemblyInfoInputs.cache
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.AssemblyInfo.cs
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.csproj.CoreCompileInputs.cache
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\bin\Debug\net8.0\Sheet 8.exe
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\bin\Debug\net8.0\Sheet 8.deps.json
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\bin\Debug\net8.0\Sheet 8.runtimeconfig.json
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\bin\Debug\net8.0\Sheet 8.dll
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\bin\Debug\net8.0\Sheet 8.pdb
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.dll
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\refint\Sheet 8.dll
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.pdb
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\Sheet 8.genruntimeconfig.cache
+F:\Faculty\2025 First Semester\Structure Programming\Quizs\Sections\Sheet 8\obj\Debug\net8.0\ref\Sheet 8.dll

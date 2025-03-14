@@ -1,0 +1,14 @@
+C:\Users\Abdo\Desktop\Sheet 5\bin\Debug\net8.0\Sheet 5.exe
+C:\Users\Abdo\Desktop\Sheet 5\bin\Debug\net8.0\Sheet 5.deps.json
+C:\Users\Abdo\Desktop\Sheet 5\bin\Debug\net8.0\Sheet 5.runtimeconfig.json
+C:\Users\Abdo\Desktop\Sheet 5\bin\Debug\net8.0\Sheet 5.dll
+C:\Users\Abdo\Desktop\Sheet 5\bin\Debug\net8.0\Sheet 5.pdb
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.AssemblyInfoInputs.cache
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.AssemblyInfo.cs
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.csproj.CoreCompileInputs.cache
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.dll
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\refint\Sheet 5.dll
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.pdb
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\Sheet 5.genruntimeconfig.cache
+C:\Users\Abdo\Desktop\Sheet 5\obj\Debug\net8.0\ref\Sheet 5.dll
