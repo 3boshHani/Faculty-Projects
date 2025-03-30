@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c151b566-63d7-4760-ba48-6bd3017d8aab": {
+      "ProjectGuid": "c151b566-63d7-4760-ba48-6bd3017d8aab",
+      "DisplayName": "The Sum of Series One",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

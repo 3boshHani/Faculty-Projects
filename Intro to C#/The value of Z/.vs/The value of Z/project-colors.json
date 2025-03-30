@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "811c2f1e-d25e-4a50-9e8d-e071515ab571": {
+      "ProjectGuid": "811c2f1e-d25e-4a50-9e8d-e071515ab571",
+      "DisplayName": "The value of Z",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

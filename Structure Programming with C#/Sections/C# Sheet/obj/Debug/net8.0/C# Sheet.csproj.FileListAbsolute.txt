@@ -1,0 +1,14 @@
+c:\Users\Abdo\Desktop\C# Sheet\bin\Debug\net8.0\C# Sheet.exe
+C:\Users\Abdo\Desktop\C# Sheet\bin\Debug\net8.0\C# Sheet.deps.json
+C:\Users\Abdo\Desktop\C# Sheet\bin\Debug\net8.0\C# Sheet.runtimeconfig.json
+c:\Users\Abdo\Desktop\C# Sheet\bin\Debug\net8.0\C# Sheet.dll
+c:\Users\Abdo\Desktop\C# Sheet\bin\Debug\net8.0\C# Sheet.pdb
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.AssemblyInfoInputs.cache
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.AssemblyInfo.cs
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.csproj.CoreCompileInputs.cache
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.dll
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\refint\C# Sheet.dll
+c:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.pdb
+C:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\C# Sheet.genruntimeconfig.cache
+C:\Users\Abdo\Desktop\C# Sheet\obj\Debug\net8.0\ref\C# Sheet.dll

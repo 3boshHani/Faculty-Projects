@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\The value of Z.exe
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\The value of Z.deps.json
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\The value of Z.runtimeconfig.json
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\The value of Z.dll
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\ref\The value of Z.dll
+C:\Users\Omar\Desktop\The value of Z\The value of Z\bin\Debug\net6.0\The value of Z.pdb
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.AssemblyInfo.cs
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.dll
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\ref\The value of Z.dll
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.pdb
+C:\Users\Omar\Desktop\The value of Z\The value of Z\obj\Debug\net6.0\The value of Z.genruntimeconfig.cache

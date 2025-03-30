@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\CalculateCircle.exe
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\CalculateCircle.deps.json
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\CalculateCircle.runtimeconfig.json
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\CalculateCircle.dll
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\ref\CalculateCircle.dll
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\bin\Debug\net6.0\CalculateCircle.pdb
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.AssemblyInfo.cs
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.dll
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\ref\CalculateCircle.dll
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.pdb
+C:\Users\Omar\Desktop\CalculateCircle\CalculateCircle\obj\Debug\net6.0\CalculateCircle.genruntimeconfig.cache

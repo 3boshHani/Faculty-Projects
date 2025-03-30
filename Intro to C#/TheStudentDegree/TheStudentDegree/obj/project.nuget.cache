@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ee2xkaMuyZTVIcRtt1w4OflmpC9znU32UOYFfRQQCsGfb6Qe2m1983Zg02TNYaXtL2BjOg2E3oUu6yO+PWLJsQ==",
+  "success": true,
+  "projectFilePath": "G:\\Abdo Data\\Faculty\\Second Semester 2024\\Intro to Programming C#\\Sheet\\TheStudentDegree\\TheStudentDegree\\TheStudentDegree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.AssemblyInfo.cs
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.exe
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.deps.json
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.runtimeconfig.json
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.dll
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\ref\TheGreaterNum.dll
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.pdb
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.dll
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\ref\TheGreaterNum.dll
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.pdb
+C:\Users\Omar\Desktop\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.genruntimeconfig.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.exe
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.deps.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.runtimeconfig.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\ref\TheGreaterNum.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\bin\Debug\net6.0\TheGreaterNum.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.csproj.AssemblyReference.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.AssemblyInfoInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.AssemblyInfo.cs
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.csproj.CoreCompileInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\ref\TheGreaterNum.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\TheGreaterNum\TheGreaterNum\obj\Debug\net6.0\TheGreaterNum.genruntimeconfig.cache

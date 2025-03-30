@@ -1,0 +1,30 @@
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.exe
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.deps.json
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.runtimeconfig.json
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.dll
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\ref\Thedescendingorder.dll
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.pdb
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.dll
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\ref\Thedescendingorder.dll
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.pdb
+C:\Users\Omar\Desktop\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.genruntimeconfig.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.exe
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.deps.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.runtimeconfig.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\ref\Thedescendingorder.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\bin\Debug\net6.0\Thedescendingorder.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.csproj.AssemblyReference.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.AssemblyInfoInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.AssemblyInfo.cs
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.csproj.CoreCompileInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\ref\Thedescendingorder.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Thedescendingorder\Thedescendingorder\obj\Debug\net6.0\Thedescendingorder.genruntimeconfig.cache

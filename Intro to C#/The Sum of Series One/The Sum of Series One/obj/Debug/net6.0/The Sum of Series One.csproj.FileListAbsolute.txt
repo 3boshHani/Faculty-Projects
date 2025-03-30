@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\The Sum of Series One.exe
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\The Sum of Series One.deps.json
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\The Sum of Series One.runtimeconfig.json
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\The Sum of Series One.dll
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\ref\The Sum of Series One.dll
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\bin\Debug\net6.0\The Sum of Series One.pdb
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.AssemblyInfo.cs
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.dll
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\ref\The Sum of Series One.dll
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.pdb
+C:\Users\Omar\Desktop\The Sum of Series One\The Sum of Series One\obj\Debug\net6.0\The Sum of Series One.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.exe
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.deps.json
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.runtimeconfig.json
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\ref\QuadraticEquation.dll
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfo.cs
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\ref\QuadraticEquation.dll
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Omar\Desktop\QuadraticEquation\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.genruntimeconfig.cache

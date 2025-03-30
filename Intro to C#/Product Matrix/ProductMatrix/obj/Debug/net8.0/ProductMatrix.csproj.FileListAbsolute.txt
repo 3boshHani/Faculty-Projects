@@ -1,0 +1,28 @@
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.exe
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.deps.json
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.runtimeconfig.json
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.pdb
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\refint\ProductMatrix.dll
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.pdb
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.genruntimeconfig.cache
+C:\Users\Omar\Desktop\Product Matrix\ProductMatrix\obj\Debug\net8.0\ref\ProductMatrix.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.exe
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.deps.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.runtimeconfig.json
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\bin\Debug\net8.0\ProductMatrix.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfoInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.AssemblyInfo.cs
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.csproj.CoreCompileInputs.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\refint\ProductMatrix.dll
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.pdb
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ProductMatrix.genruntimeconfig.cache
+G:\Abdo Data\Programing\Projects\Faculty Projects (C#)\Intro to C#\Product Matrix\ProductMatrix\obj\Debug\net8.0\ref\ProductMatrix.dll

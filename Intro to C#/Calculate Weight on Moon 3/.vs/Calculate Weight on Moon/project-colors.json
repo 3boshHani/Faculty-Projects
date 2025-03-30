@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af4c590b-079d-40e4-98fd-e3d81b37c0e4": {
+      "ProjectGuid": "af4c590b-079d-40e4-98fd-e3d81b37c0e4",
+      "DisplayName": "Calculate Weight on Moon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
